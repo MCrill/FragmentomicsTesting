@@ -1,0 +1,5 @@
+sample_id,fastq_1,fastq_2
+HEALTHY_01,/data/fastq/HEALTHY_01_R1.fastq.gz,/data/fastq/HEALTHY_01_R2.fastq.gz
+HEALTHY_02,/data/fastq/HEALTHY_02_R1.fastq.gz,/data/fastq/HEALTHY_02_R2.fastq.gz
+CANCER_01,/data/fastq/CANCER_01_R1.fastq.gz,/data/fastq/CANCER_01_R2.fastq.gz
+CANCER_02,/data/fastq/CANCER_02_R1.fastq.gz,/data/fastq/CANCER_02_R2.fastq.gz
