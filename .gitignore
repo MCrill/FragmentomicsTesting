@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.pytest_cache/
+.coverage
+htmlcov/
+.ruff_cache/
+work/            # nextflow workdir
+.nextflow*
+results*/
+*.bam
+*.bai
+*.fastq.gz
+*.fa.fai
+assets/test/
+.DS_Store
+.venv/
